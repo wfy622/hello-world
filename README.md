@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-我正在学习代码托管。
+好好学习，天天向上
